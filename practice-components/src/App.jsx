@@ -1,7 +1,8 @@
 import { Button } from "./Components/Button"
+import { Navbar } from "./Components/Navbar"
 function App() {
  return<div>
-<Button onClick={""} title={" Add Me "}/>
+<Navbar></Navbar>
 
  </div>
 }
